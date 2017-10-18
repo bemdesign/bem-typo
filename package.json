@@ -1,0 +1,19 @@
+{
+  "name": "bem-typo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemdesign/bem-typo.git"
+  },
+  "author": "Mikhail Koloskov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bemdesign/bem-typo/issues"
+  },
+  "homepage": "http://bem.design"
+}

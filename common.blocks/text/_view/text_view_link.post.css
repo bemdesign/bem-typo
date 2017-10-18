@@ -1,0 +1,8 @@
+.text_view_link {
+	color: var(--color-link);
+	text-decoration: none;
+	cursor: pointer;
+	&:hover {
+		color : var(--color-link-hover);
+	}
+}

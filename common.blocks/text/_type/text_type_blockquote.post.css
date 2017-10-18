@@ -1,0 +1,8 @@
+.text_type_blockquote {
+	line-height: 21px;
+	margin-left: 60px;
+	padding-left: 15px;
+	margin-bottom: 21px;
+	border-left: 3px solid var(--color-brand);
+	line-height: 21px;
+}

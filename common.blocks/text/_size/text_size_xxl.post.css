@@ -1,0 +1,5 @@
+.text_size_xxl {
+	font-size: $size-typo-xxl;
+	/*font-family: "Yandex Sans Text Web", Helvetica, Arial, sans-serif;*/
+	line-height: $line-height-typo-xxl;
+}

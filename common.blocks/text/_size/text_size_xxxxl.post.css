@@ -1,0 +1,4 @@
+.text_size_xxxxl {
+	font-size: $size-typo-xxxxl;
+	line-height: $line-height-typo-xxxxl;
+}

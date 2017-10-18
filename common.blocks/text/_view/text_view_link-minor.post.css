@@ -1,0 +1,4 @@
+.text_view_link-minor {
+	color: var(--color-link-minor);
+	text-decoration: none;
+}
