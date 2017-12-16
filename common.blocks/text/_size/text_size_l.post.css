@@ -1,5 +1,4 @@
 .text_size_l {
 	font-size: $size-typo-l;
-	font-family: "Yandex Sans Text Web", Helvetica, Arial, sans-serif;
 	line-height: $line-height-typo-l;
 }
