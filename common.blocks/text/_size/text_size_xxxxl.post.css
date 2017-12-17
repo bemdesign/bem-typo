@@ -1,4 +1,4 @@
 .text_size_xxxxl {
-	font-size: $size-typo-xxxxl;
-	line-height: $line-height-typo-xxxxl;
+	font-size: var(--size-typo-xxxxl);
+	line-height: var(--line-height-typo-xxxxl);
 }
