@@ -31,5 +31,5 @@
 }
 
 .text_font_sans {
-    font-family: --font-sans;
+    font-family: var(--font-sans);
 }
