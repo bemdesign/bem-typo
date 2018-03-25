@@ -31,5 +31,5 @@
 }
 
 .text_font_sans {
-    font-family: "ibm-plex-sans", Helvetica, Arial, sans-serif;
+    font-family: --font-sans;
 }

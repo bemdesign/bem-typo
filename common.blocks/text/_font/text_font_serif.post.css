@@ -24,5 +24,5 @@
 
 
 .text_font_serif {
-    font-family: "ibm-plex-serif", Georgia, serif;
+    font-family: --font-serif;
 }
